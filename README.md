@@ -12,4 +12,6 @@ puis rendez vous dans le fichier .env à la ligne 30 et saisissez le user name e
 DATABASE_URL="mysql://user_name:password@127.0.0.1:3306/paris_8_ssi?serverVersion=5.7"
 ### Lancer le site 
 Lancer le site avec la commande <br/>
--symfony server:start
+-symfony server:start<br/>
+http://127.0.0.1:8000/login
+
